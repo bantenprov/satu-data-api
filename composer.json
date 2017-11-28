@@ -20,7 +20,7 @@
             "src/helpers/helpers.php"
         ],
         "psr-4": {
-            "Bantenprov\\LaraveApiManager\\": "src"
+            "Bantenprov\\SatuDataApi\\": "src"
         }
     },
     "minimum-stability": "stable"
